@@ -5,6 +5,7 @@ To pass values from one language to another.
 
 ## Index
 - [Boilerplate](#language)
+- [C++11](#c11)
 - [Free Pascal](#free-pascal)
 - [Rust](#rust)
 
@@ -29,6 +30,29 @@ To pass values from one language to another.
 - 64 bit
 ### boolean
 ### URL documentation
+
+## C++11
+### Signed
+- char, int8_t
+- int, int16_t
+- long int, int32_t
+- long long int, int64_t
+- n/a
+- intmax_t
+- n/a
+### Unsigned
+- unsigned char, uint8_t
+- unsigned int, uint16_t
+- unsigned long int, uint32_t
+- unsigned long long int, uint64_t
+- n/a
+- uintmax_t
+- n/a
+### Float
+- float
+- double
+### Boolean
+- bool
 
 ## Free Pascal
 ### signed
