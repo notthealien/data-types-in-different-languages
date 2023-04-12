@@ -7,6 +7,7 @@ To pass values from one language to another.
 - [Boilerplate](#language)
 - [C++11](#c11)
 - [Free Pascal](#free-pascal)
+- [Java](#java)
 - [Rust](#rust)
 
 ## Language
@@ -76,6 +77,28 @@ To pass values from one language to another.
 - Boolean
 ### URL documentation
 [Free Pascal Wiki](https://wiki.freepascal.org/Data_type)
+
+## Java
+### signed
+- byte
+- short
+- int
+- long
+- n/a
+- n/a
+- n/a
+### unsigned
+- n/a
+- n/a
+- n/a
+- n/a
+- n/a
+- n/a
+### float
+- float
+- double
+### boolean
+- boolean
 
 ## Rust
 ### signed
