@@ -8,6 +8,7 @@ To pass values from one language to another.
 - [C++11](#c11)
 - [Free Pascal](#free-pascal)
 - [Java](#java)
+- [Kotlin](#kotlin)
 - [Rust](#rust)
 
 ## Language
@@ -99,6 +100,30 @@ To pass values from one language to another.
 - double
 ### boolean
 - boolean
+
+## Kotlin
+### signed
+- 8 Byte
+- 16 Short
+- 32 Int
+- 64 Long
+- 128 n/a
+- n/a
+- n/a
+### unsigned
+- UByte
+- UShort
+- UInt
+- ULong
+- n/a
+- n/a
+### float
+- Float
+- Double
+### boolean
+- Boolean
+### URL documentation
+[kotlinlang](https://kotlinlang.org/docs/booleans.html)
 
 ## Rust
 ### signed
