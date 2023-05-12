@@ -103,11 +103,11 @@ To pass values from one language to another.
 
 ## Kotlin
 ### signed
-- 8 Byte
-- 16 Short
-- 32 Int
-- 64 Long
-- 128 n/a
+- Byte
+- Short
+- Int
+- Long
+- n/a
 - n/a
 - n/a
 ### unsigned
